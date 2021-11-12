@@ -12,7 +12,7 @@ The CPU Must be Intel Core i3/i5/i7-3XXXM
 	AC Charger
 
 # What doesnt work (so far):
-	Sound is not working cause iam dumb using AppleALC so i just use a soundcard.
+	Sound is not working cause i am dumb using AppleALC so i just use a soundcard.
 	External Monitors through VGA
 	Internal Trackpad
 	Microphone jack (prob needs AppleALC)
