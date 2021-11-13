@@ -29,3 +29,11 @@ The CPU Must be Intel Core i3/i5/i7-3XXXM
 That if you have a really cheap mechanical feel keyboard like i do, people that uses scroll lock to have the LEDs on wont work cause of macOS notsupporting scroll lock or numlock.
 If you wanna change brightness sometimes the keyboard button for scroll lock is brightness down and pause break is brightness up for some reason but at least they used some of the more usesless keys.
 
+# Steps that ive used
+1. Click Download source code as zip in this repository.
+2. Extract the zip file
+3. Copy the EFI Folder from there
+4. Plug in your USB Drive (at least 4GB)
+5. And drag the EFI Folder there
+6. Once Done, you should have OpenCore Bootloader working now all you need to is follow the OpenCore Guide to show how to get the recovery image and get it on the drive. https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
+
