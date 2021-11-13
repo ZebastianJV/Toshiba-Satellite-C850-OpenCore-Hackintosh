@@ -1,5 +1,14 @@
 # Toshiba-Satellite-C850-OpenCore-Hackintosh
 Welcome to the repository of my hackintosh build. This is a prebuilt for the laptop that ive been always using for OpenCore.
+
+# Model used:
+Toshiba Satellite C850-B990
+
+# Specs i have
+	CPU:Intel Core i3-3120M
+	GPU:Intel HD Graphics 4000
+	RAM:8GB DDR3 SODIMM 1333Mhz
+	HDD:200GB TOSHIBA HDD 5400 RPM
 # IMPORTANT:
 	This prebuilt Hackintosh is not 100% guarenteed to work as it might vary, its all about luck.
 	This only works on Ivy Bridge CPUS and will not work with Satellite C850s with NVIDIA Discrete GPU.
