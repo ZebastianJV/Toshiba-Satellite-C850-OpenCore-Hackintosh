@@ -9,6 +9,7 @@ Toshiba Satellite C850-B990
 	GPU:Intel HD Graphics 4000
 	RAM:8GB DDR3 SODIMM 1333Mhz
 	HDD:200GB TOSHIBA HDD 5400 RPM
+	SSD:240GB HIKVISION SATA6GB/s SSD
 # IMPORTANT:
 	This prebuilt Hackintosh is not 100% guarenteed to work as it might vary, its all about luck.
 	This only works on Ivy Bridge CPUS and will not work with Satellite C850s with NVIDIA Discrete GPU.
